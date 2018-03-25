@@ -1,0 +1,50 @@
+HOW TO GET ACCESS TO BLOCKED WEBSITES :cyclone:
+
+Let us discuss all the methods i.e., from easier methods to harder ones.
+
+1. Recast the URL
+
+This trick works for the sites which are hosted on VPN and on Dedicated server Environment and have an unverified SSL installed for that domain name. To get access to such websites you have to implement 2 simple steps. They are:
+
+1. Go to the address bar of the browser (Any browser)
+2. Instead of typing www.websiteURL.com or http://www.WebsiteURL.com, try typing https://www.WebsiteURL.com
+So, as the domain is unverified with SSL installation, it will show up a security notice with the options as Proceed anyway or Back to Safety. Here, you have to select the option Proceed Anyway, then you will get an entry ticket to the site.
+
+
+
+
+
+2. DNS Server Replacement
+
+In this method you have to change or replace the DNS server to get access over the blocked websites. Say, DNS server is the container which contains all the information regarding all the sites from the entire world. So, if any country blocks any website IP from their Country IPs, they block it in their own DNS server. Whoever uses those particular DNS servers will not be able to access the blocked websites. MNC Companies, Schools, Colleges generally use this method to block the sites. To bypass this situation we have a simple trick. These methods slightly vary for different users. Just follow the steps below.
+
+For Windows XP users
+
+¶Click Start > Control Panel > Network Connections.
+¶Now select your specific Internet connection with access problems, right-click, then select Properties.
+¶Left-click Internet Protocol (TCP/IP), and select Properties.
+¶Follow the Step 5 instruction given above in properties.
+
+Windows 7, 8, 8.1 and Vista Users
+
+¶For Windows Vista and 7, go to Start > Control Panel > Network and Internet > Network and Sharing Center. If you’re using Windows 8, hit Windows key + C > click Search on the right-hand side > type Control Panel in the search bar > select Control Panel > Network and Internet > Network and Sharing Center.
+¶Click Change adapter settings, which is on the left sidebar.
+¶Right-click the Internet connection (MTNL, Airtel, BSNL, etc.) on which you’re having trouble accessing websites, and click Properties.
+¶Select Internet Protocol Version 4 (TCP/IP), and then click Properties.
+¶Click the radio button next to Use the following DNS Server address.
+If you want to use Google DNS, enter 8.8.8.8 as the Preferred DNS Server and 8.8.4.4 as the Alternate DNS Server.
+¶If you want to use OpenDNS, use 202.67.220.220 and 202.67.222.222 respectively. After entering these, click OK
+
+For iOS device Users
+
+¶Open Settings > tap Wi-Fi > tap the Wi-Fi network the device is connected to.
+¶Tap DNS and change the two values to Google DNS or Open DNS (explained in step 5 above). These two values should be separated by a comma and one space (8.8.8.8, 8.8.4.4).
+
+For Android users, these are the steps.
+
+¶Open Settings > tap Wi-Fi.
+¶Long press the Wi-Fi network you’re connected to > tap Modify Network.
+¶Now tap the box next to Show advanced options. Scroll down.
+Tap DHCP > select Static IP > scroll down and modify DNS 1 and DNS 2 (as explained in step 5 above).
+¶Click the radio button next to Use the following DNS Server address. If you want to use Google DNS, enter 8.8.8.8 as the Preferred DNS Server and 8.8.4.4 as the Alternate DNS Server. If you want to use OpenDNS, use 202.67.220.220 and 202.67.222.222 respectively. After entering thes
+e, click OK.
